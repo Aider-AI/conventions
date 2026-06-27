@@ -13,7 +13,7 @@ This folder provides conventions for building robust, readable, and scalable Go 
 
 ## How To Use
 
-1. Review [`golang_conventions.md`](golang_conventions.md) for detailed guidelines and examples.
+1. Review [`CONVENTIONS.md`](CONVENTIONS.md) for detailed guidelines and examples.
 2. Organize your repositories and modules as described.
 3. Centralize and standardize all error and logging logic.
 4. Write code that is easy for others to understand and extend.

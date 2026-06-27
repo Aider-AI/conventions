@@ -126,7 +126,7 @@
   Only includes, set statements and setting constants may be done\
   before declaring functions.
 
-- Declare function-specific variables with local. Remenber that bash uses dynamic scoping i.e., local variables can be \
+- Declare function-specific variables with local. Remember that bash uses dynamic scoping i.e., local variables can be \
   accessed by called functions with the function's body.
 
 - File names should be lowercase, with underscores to separate words if desired.

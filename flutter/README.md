@@ -12,7 +12,7 @@ This repository contains a comprehensive set of conventions for building Flutter
 
 ## What’s Inside?
 
-- [`flutter_conventions.md`](flutter_conventions.md): The main document outlining folder structure, best practices, code organization, and detailed guidelines for using GetX, Dio, and Material 3 in your Flutter projects.
+- [`CONVENTIONS.md`](CONVENTIONS.md): The main document outlining folder structure, best practices, code organization, and detailed guidelines for using GetX, Dio, and Material 3 in your Flutter projects.
 
 ## Key Highlights
 
@@ -25,7 +25,7 @@ This repository contains a comprehensive set of conventions for building Flutter
 
 ## Getting Started
 
-1. Review [flutter_conventions.md](flutter_conventions.md) and use it as a baseline for all new Flutter projects.
+1. Review [CONVENTIONS.md](CONVENTIONS.md) and use it as a baseline for all new Flutter projects.
 2. Apply the folder structure and patterns described in the document.
 3. Adhere to the code style and best practices to ensure project consistency.
 
